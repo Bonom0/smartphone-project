@@ -18,3 +18,5 @@ Etapas do Projeto
   Análise exploratória
   Geração de gráficos (distribuições, comparações e correlações)
   Conclusões com base nos resultados obtidos
+
+Apresentação está no Colab, gerada pelo código.
